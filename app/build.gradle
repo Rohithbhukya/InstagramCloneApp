@@ -37,7 +37,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    implementation "com.github.parse-community.Parse-SDK-Android:parse:1.26.0"
+    implementation 'com.github.parse-community.Parse-SDK-Android:parse:1.26.0'
+
+   // implementation 'com.google.android.material:material:1.2.0-alpha06'
 
     implementation 'com.github.Shashank02051997:FancyToast-Android:0.1.8'
 }
